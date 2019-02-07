@@ -1,0 +1,62 @@
+@media (max-width: 479px) and (min-width: 320px){
+    .main-header{
+        min-height: 478px;
+    }
+    .f-main {
+        position: inherit;
+        margin-left: -6px !important;
+    }
+    .head-fr {
+        height: 180px;
+        width: 338px;
+    }
+    .f-back-img {
+        height: 427px;
+    }
+    .txt-left{
+        height: 477px;
+    }
+    .real-fr{
+        height: 179px;
+        width: 316px;
+    }
+    .real-h1 {
+        margin-top: -94px;
+    }
+    .real-t{
+        width: 360px;
+    }
+    .txt-left{
+        height: 277px;
+        margin-top: 89px;
+        width: 360px;
+    }
+    .sbheader-txt{
+        width: 360px;
+        padding-left: 11px;
+    }
+    .sbheader-head,.sbheader-head-2{
+        padding-left: 11px;
+    }
+    .btn-white {
+        margin-top: 70px;
+        margin-left: 11px;
+    }
+    .sbheader-text{
+        margin-right: 0px;
+        margin-top: -20px;
+    }
+    .header-f{
+        margin-bottom: 0px;
+        margin-top: 0px;
+    }
+    .f-head {
+        font-size: 33px;
+    }
+    .wrapper{
+        flex-direction: column;
+      }
+    #outer_wrapper {  
+        overflow-x: hidden;
+    }
+}
